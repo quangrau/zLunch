@@ -1,0 +1,15 @@
+.DateSlider {
+  display: flex;
+  padding: 24px 16px;
+  justify-content: space-between;
+}
+
+.DateSlider__prev {
+}
+
+.DateSlider__next {
+}
+
+.DateSlider__date {
+  font-size: 24px;
+}

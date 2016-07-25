@@ -1,0 +1,13 @@
+.NewMenu {
+  padding: 16px;
+}
+
+.NewMenu__input {
+  border-bottom: 1px solid rgba(0,0,0,.12);
+  width: 100%;
+}
+
+.NewMenu__footer {
+  margin-bottom: 24px;
+  text-align: center;
+}

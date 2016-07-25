@@ -1,0 +1,23 @@
+.MenuItemSelected {
+  margin-bottom: 24px;
+}
+
+.MenuItemSelected__Card {
+  width: 100%;
+  margin: 0 auto;
+  background-color: #3E4EB8;
+}
+
+.MenuItemSelected__Card__Title {
+  align-items: flex-start;
+  color: #FFFFFF;
+  height: 176px;
+}
+
+.MenuItemSelected__Card__Actions {
+  border-color: rgba(255, 255, 255, 0.2);
+  display: flex;
+  box-sizing: border-box;
+  align-items: center;
+  color: #FFFFFF;
+}

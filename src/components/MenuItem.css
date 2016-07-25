@@ -1,0 +1,13 @@
+.MenuItem {
+  margin-bottom: 24px;
+}
+
+.MenuItem__Card {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.MenuItem__Card__Title {
+  color: #FFFFFF;
+  height: 176px;
+}
